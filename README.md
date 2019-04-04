@@ -2,6 +2,6 @@
 Minor course about solving hard problems
 
 # Participants
-Max Frings
-Mels van Eck
-Floris Fok
+* Max Frings
+* Mels van Eck
+* Floris Fok
